@@ -8,7 +8,7 @@
 <div align="center">
   <div style="display: inline-block;">
     <h2 style="margin: 0;">
-      Hi, I'm <a href="https://sandip.dev" target="_blank">Sandipeyy</a>
+      Hi, I'm <a href="https://sandip.gg_" target="_blank">Sandipeyy</a>
       <img src="https://raw.githubusercontent.com/Sandipeyy/Sandipeyy/main/pikahello.gif" width="40px" height="40px" style="vertical-align: middle;">
     </h2>
   </div>
@@ -18,7 +18,7 @@
   </div>
 </div>
 <p align="center">
- <a href="https://sandip.dev" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+ <a href="https://sandip.gg_" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
  <a href="https://instagram.com/sandipeyy_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
  <a href="mailto:977senpai@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
@@ -53,7 +53,7 @@
     <td align="center">
       <b>🔎 Discord Status</b><br>
       <a href="https://discord.com/users/1348121364833243270">
-        <img src="https://lanyard.cnrad.dev/api/1348121364833243270?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20sleeping..." alt="Discord Status" />
+        <img src="https://lanyard.cnrad.dev/api/1348121364833243270?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20coding..." alt="Discord Status" />
       </a>
     </td>
     <td align="center">
