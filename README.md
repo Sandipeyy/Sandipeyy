@@ -18,7 +18,7 @@
   </div>
 </div>
 <p align="center">
-  <a href="https://sandip.gg_" target="_blank">
+  <a href="https://sandip.is-not-a.dev" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://instagram.com/sandipeyy_" target="_blank">
@@ -61,8 +61,8 @@
   <tr>
     <td align="center">
       <b>🔎 Discord Status</b><br>
-      <a href="https://discord.com/users/1348121364833243270">
-        <img src="https://lanyard.cnrad.dev/api/1348121364833243270?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20coding..." alt="Discord Status" />
+      <a href="https://discord.com/users/716445719807918160">
+        <img src="https://lanyard.cnrad.dev/api/716445719807918160?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20sleeping..." alt="Discord Status" />
       </a>
     </td>
     <td align="center">
