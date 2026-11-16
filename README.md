@@ -11,10 +11,10 @@
 **Listening to**
 
 <p>
-<a href="https://readme-player.977senpai.workers.dev/open">
+<a href="https://sandipgg.is-a.dev/readme-player/open">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-player.977senpai.workers.dev/svg?theme=dark" />
-    <img src="https://readme-player.977senpai.workers.dev/svg?theme=light" alt="What I'm listening to on Spotify" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://sandipgg.is-a.dev/readme-player/svg?theme=dark" />
+    <img src="https://sandipgg.is-a.dev/readme-player/svg?theme=light" alt="What I'm listening to on Spotify" />
   </picture>
 </a>
 </p>
@@ -26,4 +26,3 @@
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=Sandipeyy&label=profile%20views&color=007ec6&style=flat" alt="Profile views" />
-
